@@ -1,0 +1,25 @@
+{
+  "config": {
+    "alpha": 8,
+    "architecture": "lora",
+    "attn_matrices": [
+      "q",
+      "v"
+    ],
+    "composition_mode": "add",
+    "dropout": 0.0,
+    "init_weights": "lora",
+    "intermediate_lora": false,
+    "output_lora": false,
+    "r": 8,
+    "selfattn_lora": true,
+    "use_gating": false
+  },
+  "config_id": "625403edad0bf919",
+  "hidden_size": 768,
+  "model_class": "RobertaAdapterModel",
+  "model_name": "VRLLab/TurkishBERTweet",
+  "model_type": "roberta",
+  "name": "MPATurk",
+  "version": "0.1.0"
+}

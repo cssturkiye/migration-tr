@@ -1,0 +1,25 @@
+{
+  "config": {
+    "activation_function": "tanh",
+    "bias": true,
+    "dropout_prob": null,
+    "head_type": "classification",
+    "label2id": {
+      "antipati-diger": 0,
+      "antipati-ekonomi-istihdam": 1,
+      "antipati-guvenlik-kimlik": 2,
+      "antipati-politik-tehdit": 3,
+      "notr": 4,
+      "sempati": 5
+    },
+    "layers": 2,
+    "num_labels": 6,
+    "use_pooler": false
+  },
+  "hidden_size": 768,
+  "model_class": "RobertaAdapterModel",
+  "model_name": "VRLLab/TurkishBERTweet",
+  "model_type": "roberta",
+  "name": "classification_head",
+  "version": "0.1.0"
+}

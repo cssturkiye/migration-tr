@@ -1,0 +1,19 @@
+{
+  "config": {
+    "activation_function": "gelu",
+    "bias": true,
+    "embedding_size": 768,
+    "head_type": "masked_lm",
+    "label2id": null,
+    "layer_norm": true,
+    "layers": 2,
+    "shift_labels": false,
+    "vocab_size": 100000
+  },
+  "hidden_size": 768,
+  "model_class": "RobertaAdapterModel",
+  "model_name": "VRLLab/TurkishBERTweet",
+  "model_type": "roberta",
+  "name": "default",
+  "version": "0.1.0"
+}
