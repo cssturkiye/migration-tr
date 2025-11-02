@@ -213,17 +213,6 @@ Our perception-attitude classification model is built upon **TurkishBERTweet** b
 
 ---
 
-## 🤝 Contact
-
-### 👥 Research Team
-**Evrim Yılmaz Polat** - *Principal Investigator & Sociologist*  
-Department of Sociology, Zonguldak Bülent Ecevit University, Turkey
-
-**Evrim Çağın Polat** - *Co-Author & Researcher*  
-Notrino Research, ODTÜ Teknokent, Ankara, Turkey
-
-📧 Email: info@csstr.org  
-🏛️ Organization: [Computational Social Sciences Turkey (CSSTR)](https://csstr.org)
 
 ### 🏢 Organization
 **Computational Social Sciences Turkey (CSSTR)**  
