@@ -8,10 +8,6 @@
 
 *Migration Discourses on X.com: Analysis of Public Perceptions and Attitudes Toward Migrants and Refugees in Turkey Using Natural Language Processing*
 
-**Evrim Yılmaz Polat*** and **Evrim Çağın Polat**  
-Department of Sociology, Zonguldak Bülent Ecevit University, Zonguldak, Turkey;  
-Notrino Research, ODTÜ Teknokent, Ankara, Turkey
-
 *[Computational Social Sciences Turkey (CSSTR)](https://csstr.org) - Computational Social Sciences Working Group*
 
 </div>
